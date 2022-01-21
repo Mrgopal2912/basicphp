@@ -6,7 +6,7 @@ trait test{
 }
 trait bye{
 	public function saybye(){
-		echo "bye bye evryone";
+		echo "bye bye eone";
 	}
 }
 class A{
