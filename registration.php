@@ -7,7 +7,7 @@ $password="";
 $dbname="data";
 $conn=mysqli_connect($servername,$username,$password,$dbname); 
 if($conn){
-	echo"connection sucesfull";
+	echo"connection sucesful";
 }else{
 	echo"no connection";
 }
